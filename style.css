@@ -1,0 +1,12 @@
+body {
+  background-color: rgb(24, 142, 142);
+}
+
+
+.container {
+  width: 70%;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  background-color: aquamarine;
+  padding: 20px;
+}
